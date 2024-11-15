@@ -13,7 +13,7 @@ body {
 .container {
     margin: 40px auto;
     width: 90%;
-    height: 90vh;
+    height: 700px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -89,6 +89,7 @@ i {
     .container {
         flex-direction: row;
         width: 50%;
+        height: 80vh;
     }
 
     figure {
