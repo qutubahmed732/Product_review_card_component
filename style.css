@@ -63,6 +63,10 @@ ins {
     
 }
 
+del {
+    color: #868383;
+}
+
 .price {
     margin-bottom: 20px;
     display: flex;
@@ -75,7 +79,7 @@ button {
     font-size: 20px;
     font-weight: 600;
     background-color: #3d8168;
-    color: #ffe1ff;
+    color: #ffffff;
     border-radius: 15px;
     border: none;
     cursor: pointer;
